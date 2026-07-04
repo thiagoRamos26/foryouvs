@@ -1,0 +1,57 @@
+#o {
+    text-align: center;
+    margin-top: 3px;
+    color: rgb(255, 0, 72);
+    font-size: 50px;
+    border: 2px solid rgb(255, 0, 72);
+    text-shadow: 1px 1px 0px black, -1px -1px 0px black, 1px -1px 0px black, -1px 1px 0px black;
+}
+#sim {
+    text-align: center;
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    border-radius: 25px;
+}
+#nao {
+    text-align: center;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    border-radius: 25px;
+}
+#op {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+body {
+    background-image: url(/foryouvs/img/fc.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+} 
+#uf {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 0px black, -1px -1px 0px black, 1px -1px 0px black, -1px 1px 0px black;
+}
+#p {
+    text-align: center;
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+}
